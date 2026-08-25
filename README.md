@@ -48,3 +48,5 @@ plt.axis('off')
 <img width="763" height="516" alt="image" src="https://github.com/user-attachments/assets/d6a08574-6751-4ca7-bd62-8c364b585d67" />
 <img width="637" height="517" alt="image" src="https://github.com/user-attachments/assets/b2b24459-7097-4185-b3a9-9d39d2c779b9" />
 <img width="822" height="510" alt="image" src="https://github.com/user-attachments/assets/c200ab48-8103-4dc8-9e24-47d9357a1d3c" />
+## result
+Thus, the erosion and dilation is successfully implemented by completing the missing code sections. The system detects and highlights lane lines effectively.
